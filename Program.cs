@@ -18,8 +18,6 @@
 
         double p = 43948.5;
         float q =  (float)p;
-
-
-
+        Console.WriteLine(p);
     }
 }
