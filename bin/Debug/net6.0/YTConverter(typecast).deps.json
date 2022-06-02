@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "YTConverter(typecast)/1.0.0": {
+        "runtime": {
+          "YTConverter(typecast).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YTConverter(typecast)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

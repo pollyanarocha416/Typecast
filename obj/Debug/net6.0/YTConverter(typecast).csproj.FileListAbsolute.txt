@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\YTConverter(typecast)\bin\Debug\net6.0\YTConverter(typecast).exe
+C:\Users\Usuário\Desktop\YTConverter(typecast)\bin\Debug\net6.0\YTConverter(typecast).deps.json
+C:\Users\Usuário\Desktop\YTConverter(typecast)\bin\Debug\net6.0\YTConverter(typecast).runtimeconfig.json
+C:\Users\Usuário\Desktop\YTConverter(typecast)\bin\Debug\net6.0\YTConverter(typecast).dll
+C:\Users\Usuário\Desktop\YTConverter(typecast)\bin\Debug\net6.0\YTConverter(typecast).pdb
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\YTConverter(typecast).csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\YTConverter(typecast).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\YTConverter(typecast).AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\YTConverter(typecast).AssemblyInfo.cs
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\YTConverter(typecast).csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\YTConverter(typecast).dll
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\refint\YTConverter(typecast).dll
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\YTConverter(typecast).pdb
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\YTConverter(typecast).genruntimeconfig.cache
+C:\Users\Usuário\Desktop\YTConverter(typecast)\obj\Debug\net6.0\ref\YTConverter(typecast).dll
